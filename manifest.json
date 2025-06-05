@@ -1,39 +1,26 @@
 {
-  "name": "CarDoctor PMR",
-  "short_name": "CarDoctor",
-  "description": "Приложение для владельцев автомобилей: быстрый вызов помощи, диагностика и поддержка на дороге.",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "orientation": "portrait",
-  "lang": "ru-RU",
+  "short_name": "УкуШука",
+  "name": "УкуШука Тирасполь",
+  "description": "Мобильное приложение для заказа еды",
   "icons": [
     {
-      "src": "https://car-doctor.unaux.com/images/web-app-manifest-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
     },
     {
-      "src": "https://car-doctor.unaux.com/images/web-app-manifest-192x192.png",
-      "sizes": "192x192",
+      "src": "logo192.png",
       "type": "image/png",
-      "purpose": "maskable"
+      "sizes": "192x192"
     },
     {
-      "src": "https://car-doctor.unaux.com/images/web-app-manifest-512x512.png",
-      "sizes": "512x512",
+      "src": "logo512.png",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://car-doctor.unaux.com/images/web-app-manifest-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "sizes": "512x512"
     }
   ],
-  "prefer_related_applications": false
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#dc2626",  // Пример красного цвета, можете выбрать свой
+  "background_color": "#ffffff"
 }
