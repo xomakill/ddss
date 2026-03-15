@@ -2,7 +2,6 @@
   "name": "CAR DOCTOR PMR",
   "short_name": "CAR-DOC",
   "description": "Мобильное приложение для вызова помощи вашему авто!",
-  "start_url": ".",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
