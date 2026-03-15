@@ -1,20 +1,20 @@
 {
-  "short_name": "CAR DOCTOR",
+  "short_name": "CAR-DOC",
   "name": "CAR DOCTOR PMR",
   "description": "Мобильное приложение для вызова помощи вашему авто!",
   "icons": [
     {
-      "src": "/images/favicon.ico",
+      "src": "https://car-doctor.unaux.com/images/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "/images/web-app-manifest-192x192.png.png",
+      "src": "https://car-doctor.unaux.com/images/web-app-manifest-192x192.png.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/web-app-manifest-512x512.png",
+      "src": "https://car-doctor.unaux.com/images/web-app-manifest-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
